@@ -28,7 +28,7 @@ All game logic is located in the `Game` class, which is initialized by the `Serv
 Contributions are welcome! If you want to enhance this project, feel free to fork it and submit pull requests.
 
 ## License
-This project is under the GNU General Public License v3.0. Check the LICENSE file for more details.
+This project is under the GNU General Public License v3.0. Check the [LICENSE file](https://github.com/Adripoblado/HLF/blob/main/LICENSE) for more details.
 
 ## Author
 [Adrián Cervera]
